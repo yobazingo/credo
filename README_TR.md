@@ -56,13 +56,13 @@ Değer İnternetinin temelini oluşturmak için merkezi olmayan ağların aşağ
 > 
 > **Gizlilik.** Kullanıcılar kimliklerini ve işlem detaylarını koruyabilmelidir. Hassas bilgiler, kullanıcıların izni olmadan ağdaki diğer kişilerle paylaşılmaz.
 > 
-> **Hiper Ölçeklenebilirlik.** Ağ, diğer tüm kritik özellikleri korurken üst sınır olmaksızın büyüme kapasitesine sahip olmalıdır.
+> **Elastik Ölçeklenebilirlik.** Ağ, diğer tüm kritik özellikleri korurken üst sınır olmaksızın büyüme kapasitesine sahip olmalıdır.
 > 
 > **Erişebilirlik.**  Ağ üzerindeki uygulamalar ve hizmetler, son teknoloji ürünü merkezi alternatifler kadar uygun fiyatlı, kullanımı kolay ve güvenli olmalıdır.
 > 
 > **Egemenlik.** Azınlık da olsa herhangi bir kullanıcı grubu, varlıklarını minimum maliyetle yanlarına alarak ağdan çıkma, yani ayrılma hakkına sahip olmalıdır.
 
-Şu anda Ethereum, Değer İnterneti'nin bel kemiğini oluşturur ve blok zinciri ağı vizyonunu gerçekleştirmeye en yakın aday. Güvene ihtiyaç duymayan, güvenli, güvenilir, sansüre dayanıklı ve egemen bir ağ olarak duruyor. Ancak, şu koşulları karşılamıyor: gizlilik, hiper ölçeklenebilirlik ve erişilebilirlik.
+Şu anda Ethereum, Değer İnterneti'nin bel kemiğini oluşturur ve blok zinciri ağı vizyonunu gerçekleştirmeye en yakın aday. Güvene ihtiyaç duymayan, güvenli, güvenilir, sansüre dayanıklı ve egemen bir ağ olarak duruyor. Ancak, şu koşulları karşılamıyor: gizlilik, elastik ölçeklenebilirlik ve erişilebilirlik.
 
 ZK büyüsü sayesinde Ethereum'daki Web3, gizlilik için bir kale haline gelebilir ve bütünlüğü korurken sınırsız ölçeklenebilirlik elde edilebilir. Bu dönüştürücü durumda, dijital öz sahiplik için erişilebilir ve uygun fiyatlı bir sığınak olacaktır.
 
